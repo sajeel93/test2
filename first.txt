@@ -1,2 +1,6 @@
 
+<<<<<<< HEAD
 Sajeel
+=======
+Sajeel
+>>>>>>> f52c911be2a0ae346b548ac8cc575648ca4ea187
